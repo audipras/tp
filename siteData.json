@@ -115,6 +115,7 @@
         "listing-all-students-list": "Listing all students : list",
         "editing-a-student-edit": "Editing a student : edit",
         "assigning-piano-pieces-to-a-student-assign": "Assigning piano pieces to a student: assign",
+        "scheduling-a-regular-lesson-schedule": "Scheduling a regular lesson : schedule",
         "locating-students-by-name-find": "Locating students by name: find",
         "deleting-a-student-delete": "Deleting a student : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
