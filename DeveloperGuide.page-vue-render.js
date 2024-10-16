@@ -260,13 +260,13 @@ with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 with(this){return _c('ul',[_c('li',[_v("2a. KeyContacts detects an error in the entered data.\n"),_c('ul',[_c('li',[_v("2a1. KeyContacts requests for the correct data.")]),_v(" "),_c('li',[_v("2a2. User enters new data.")]),_v(" "),_c('li',[_v("Steps 2a1-2a2 are repeated until the data entered are correct.")]),_v(" "),_c('li',[_v("Use case resumes from step 3.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('h4',{attrs:{"id":"use-case-add-a-piano-piece-to-a-student"}},[_v("Use case: Add a piano piece to a student"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#use-case-add-a-piano-piece-to-a-student","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h4',{attrs:{"id":"use-case-assign-piano-piece-to-a-student"}},[_v("Use case: Assign piano piece to a student"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#use-case-assign-piano-piece-to-a-student","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User enters command to add a piano piece to a student.")])]),_v(" "),_c('li',[_c('p',[_v("KeyContacts parses the piano piece details from the user's command.")])]),_v(" "),_c('li',[_c('p',[_v("KeyContacts adds the piano piece to the student's record and notifies the user.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User enters command to assign piano pieces to a student.")])]),_v(" "),_c('li',[_c('p',[_v("KeyContacts parses the piano pieces' details from the user's command.")])]),_v(" "),_c('li',[_c('p',[_v("KeyContacts assigns the piano pieces to the student's record and notifies the user.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -392,6 +392,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 15 Oct 2024, 20:27:22 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Wed, 16 Oct 2024, 17:12:36 GMT+8]")])])])}
 }];
   
